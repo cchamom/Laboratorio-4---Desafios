@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Noti")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fce648697b10674fd477c41f9c9fe21f3f688525")]
 [assembly: System.Reflection.AssemblyProductAttribute("Noti")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Noti")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -17,11 +17,9 @@ namespace Calculadora
             double total = Calc.Sumar(n1, n2);
             Console.WriteLine("El resultado de la suma es: " + total);
 
-            // resta
             double diferencia = Calc.Restar(n1, n2);
             Console.WriteLine("El resultado de la resta es: " + diferencia);
 
-            //multiplicacion
             double multiplicar = Calc.Multiplicacion(n1, n2);
             Console.WriteLine("El resultado de la multiplicacion es: " + multiplicar);
 

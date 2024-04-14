@@ -12,3 +12,18 @@ C:\Users\Cristian Chamo\Desktop\Notificaciones\Noti\Noti\obj\Debug\net8.0\refint
 C:\Users\Cristian Chamo\Desktop\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.pdb
 C:\Users\Cristian Chamo\Desktop\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.genruntimeconfig.cache
 C:\Users\Cristian Chamo\Desktop\Notificaciones\Noti\Noti\obj\Debug\net8.0\ref\Noti.dll
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\bin\Debug\net8.0\Noti.exe
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\bin\Debug\net8.0\Noti.deps.json
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\bin\Debug\net8.0\Noti.runtimeconfig.json
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\bin\Debug\net8.0\Noti.dll
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\bin\Debug\net8.0\Noti.pdb
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.AssemblyInfoInputs.cache
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.AssemblyInfo.cs
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.csproj.CoreCompileInputs.cache
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.sourcelink.json
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.dll
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\refint\Noti.dll
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.pdb
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\Noti.genruntimeconfig.cache
+C:\Users\Cristian Chamo\Desktop\Laboratorio 4 - Desafios\Notificaciones\Noti\Noti\obj\Debug\net8.0\ref\Noti.dll

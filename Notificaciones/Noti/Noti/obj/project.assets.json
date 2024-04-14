@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristian Chamo\\Desktop\\Notificaciones\\Noti\\Noti\\Noti.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Notificaciones\\Noti\\Noti\\Noti.csproj",
       "projectName": "Noti",
-      "projectPath": "C:\\Users\\Cristian Chamo\\Desktop\\Notificaciones\\Noti\\Noti\\Noti.csproj",
+      "projectPath": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Notificaciones\\Noti\\Noti\\Noti.csproj",
       "packagesPath": "C:\\Users\\Cristian Chamo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristian Chamo\\Desktop\\Notificaciones\\Noti\\Noti\\obj\\",
+      "outputPath": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Notificaciones\\Noti\\Noti\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristian Chamo\\AppData\\Roaming\\NuGet\\NuGet.Config",

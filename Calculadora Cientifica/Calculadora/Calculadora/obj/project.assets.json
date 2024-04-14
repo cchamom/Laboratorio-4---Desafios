@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cristian Chamo\\Desktop\\Calculadora Cientifica\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Calculadora Cientifica\\Calculadora\\Calculadora\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\Cristian Chamo\\Desktop\\Calculadora Cientifica\\Calculadora\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Calculadora Cientifica\\Calculadora\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Cristian Chamo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cristian Chamo\\Desktop\\Calculadora Cientifica\\Calculadora\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\Cristian Chamo\\Desktop\\Laboratorio 4 - Desafios\\Calculadora Cientifica\\Calculadora\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cristian Chamo\\AppData\\Roaming\\NuGet\\NuGet.Config",
